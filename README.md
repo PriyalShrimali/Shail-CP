@@ -1,1 +1,2 @@
-# Shail-CP
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
